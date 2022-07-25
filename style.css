@@ -1,0 +1,14 @@
+body
+{
+background-size:cover;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+#start, #status{
+    font-size: 22px;
+}
+
